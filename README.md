@@ -3,8 +3,8 @@
 #### Technical Skills: Python, SQL, R, Tableau, Power BI, MATLAB, TensorFlow, Neural Networks, PySpark
 
 ## Education						       		
-- M.S., Data Analystics Engineering	|   Northeastern University (_December 2023_)	 			        		
-- B.S., Economics |     Washington State University (_July 2021_)
+- M.S., Data Analystics Engineering|Northeastern University (_December 2023_)	 			        		
+- B.S., Economics |    Washington State University (_July 2021_)
 
 ## Work Experience
 **Businss Analyst @ Dialysis-X (Feb 2024 – present)** 
