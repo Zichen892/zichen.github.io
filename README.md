@@ -4,7 +4,7 @@
 
 ## Education						       		
 - M.S., Data Analystics Engineering| Northeastern University (_December 2023_)	 			        		
-- B.S., Economics |                  Washington State University (_July 2021_)
+- B.S., Economics                  | Washington State University (_July 2021_)
 
 ## Work Experience
 **Business Analyst @ Dialysis-X (Feb 2024 – present)** 
