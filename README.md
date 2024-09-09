@@ -7,7 +7,7 @@
 - B.S., Economics |                  Washington State University (_July 2021_)
 
 ## Work Experience
-**Businss Analyst @ Dialysis-X (Feb 2024 – present)** 
+**Business Analyst @ Dialysis-X (Feb 2024 – present)** 
 - Sourced and performed statistical analysis on industry data using MS Excel. Developed comprehensive Tableau dashboards based on the analysis that uncovered trends and breakthrough insights in the dialysis industry.
 - Performed quantitative value analysis with Python to determine how the startup’s product would benefit its customers. This report is central to an ongoing campaign getting letters of commitment from target customers.
 
