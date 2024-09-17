@@ -24,7 +24,10 @@ Oversee and analyze the inventory data for the pharmacy supply chain, manage cos
 - Performed SQL queries to establish data collection, storage, and processing infrastructure, analyzed historical sales and purchasing data, and proposed a data-driven marketing strategy, resulting in an 8% sales increase in three months. 
 
 ## Projects
-### Data-Driven
+### Data Visualization and Storytelling
+- [Various Visulize](https://sites.google.com/view/ie6600hw5-g01/home?authuser=0)
+- [Solar Energy in New York state](https://sites.google.com/view/ie6600-group1/home)
+
 
 
 
