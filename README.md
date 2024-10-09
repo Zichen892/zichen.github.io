@@ -25,10 +25,11 @@ Oversee and analyze the inventory data for the pharmacy supply chain, manage cos
 
 ## Projects
 ### Data Visualization and Storytelling
-- [Various Visulize](https://sites.google.com/view/ie6600hw5-g01/home?authuser=0)
+- [Story-telling with Data](https://sites.google.com/view/ie6600hw5-g01/home?authuser=0)
 - [Solar Energy in New York state](https://sites.google.com/view/ie6600-group1/home)
 
-
+### Machine Learning
+- [Adult Income Classification](https://www.mlwithramin.com/project/s23-group-8)
 
 
 
