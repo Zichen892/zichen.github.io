@@ -25,6 +25,7 @@ Oversee and analyze the inventory data for the pharmacy supply chain, manage cos
 
 ## Projects
 ### Data Visualization and Storytelling
+- [Sales Dashboards with Tableau](https://public.tableau.com/views/sales_17320573079440/Customers?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - [Story-telling with Data](https://sites.google.com/view/ie6600hw5-g01/home?authuser=0)
 - [Solar Energy in New York state](https://sites.google.com/view/ie6600-group1/home)
 
