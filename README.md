@@ -32,6 +32,7 @@ Oversee and analyze the inventory data for the pharmacy supply chain, manage cos
 ### Machine Learning
 - [Adult Income Classification](https://www.mlwithramin.com/project/s23-group-8)
 - [In-Vehicle Coupon](https://github.com/Zichen892/In-Vehicle-Coupon-Prediction/tree/main)
+- [EAD & Feature Engineering](https://github.com/Zichen892/mlproject)
   
 ### Data Engineering
 - [Apache-Airflow-Building real-time pipeline for weather data ](https://github.com/Zichen892/Apache-Airflow---Building-pipeline-for-weather-data)
